@@ -7,7 +7,7 @@ header {
 }
 
 .logo {
-    display: flex;
+    display: block;
     align-items: center;
 }
 
